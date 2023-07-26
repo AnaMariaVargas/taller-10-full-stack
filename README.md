@@ -19,4 +19,5 @@
 <div><img src="" alt=""></div>
 
 <h2>Punto 5-6-7:</h2>
-<div><img src="" alt=""></div>
+<h3>5-Base de Datos</h3>
+<img src="./public/images/mySQL.jpeg" alt="mySQL">
